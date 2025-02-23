@@ -1,1 +1,1 @@
-# Estimation-et-caract-risation-du-mouvement-en-imagerie-m-dicale
+# Estimation-et-caracterisation-du-mouvement-en-imagerie-medicale
